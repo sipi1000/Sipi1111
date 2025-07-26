@@ -1,0 +1,15 @@
+backend/
+├── src/
+│   ├── main/
+│   │   ├── java/com/example/todoapp/
+│   │   │   ├── model/Task.java
+│   │   │   ├── repository/TaskRepository.java
+│   │   │   ├── service/TaskService.java
+│   │   │   └── controller/TaskController.java
+│   │   └── resources/application.properties
+└── pom.xml
+
+frontend/
+├── lib/
+│   ├── models/task.dart
+│   └── services/api_service.dart
